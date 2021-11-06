@@ -4,7 +4,7 @@ package spec
 import (
 	"time"
 
-	"github.com/gobuffalo/uuid"
+	"github.com/gofrs/uuid"
 )
 
 // HoncheonuiResource is a struct for containing resource data
